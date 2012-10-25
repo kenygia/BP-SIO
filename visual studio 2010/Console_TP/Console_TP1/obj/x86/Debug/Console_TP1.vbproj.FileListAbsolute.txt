@@ -1,0 +1,10 @@
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\bin\Debug\Console_TP1.exe
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\bin\Debug\Console_TP1.pdb
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\bin\Debug\Console_TP1.xml
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\Console_TP1.Resources.resources
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\GenerateResource.read.1.tlog
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\GenerateResource.write.1.tlog
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\Console_TP1.exe
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\Console_TP1.xml
+e:\sio\visual studio 2010\Console_TP1\Console_TP1\obj\x86\Debug\Console_TP1.pdb

@@ -1,0 +1,13 @@
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3__Exo_1.Resources.resources
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\bin\Debug\ConsoleTP3- Exo 1.exe
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\bin\Debug\ConsoleTP3- Exo 1.pdb
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\bin\Debug\ConsoleTP3- Exo 1.xml
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3- Exo 1.exe
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3- Exo 1.xml
+E:\SIO\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3- Exo 1.pdb
+F:\SIO\GOMBERT\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3- Exo 1.exe
+F:\SIO\GOMBERT\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3- Exo 1.xml
+F:\SIO\GOMBERT\visual studio 2010\Console_TP\ConsoleTP3- Exo 1\obj\x86\Debug\ConsoleTP3- Exo 1.pdb

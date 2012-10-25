@@ -1,0 +1,13 @@
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\bin\Debug\TP7-exo4.exe.config
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\bin\Debug\TP7-exo4.exe
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\bin\Debug\TP7-exo4.pdb
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\bin\Debug\TP7-exo4.xml
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\obj\Debug\TP7_exo4.Resources.resources
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\obj\Debug\TP7-exo4.vbproj.GenerateResource.Cache
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\obj\Debug\TP7-exo4.exe
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\obj\Debug\TP7-exo4.xml
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-exo4\obj\Debug\TP7-exo4.pdb
+G:\SIO\GOMBERT\visual studio 2012\TP7-exo4\TP7-exo4\bin\Debug\TP7-exo4.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP7-exo4\TP7-exo4\obj\Debug\TP7-exo4.exe
+G:\SIO\GOMBERT\visual studio 2012\TP7-exo4\TP7-exo4\obj\Debug\TP7-exo4.xml
+G:\SIO\GOMBERT\visual studio 2012\TP7-exo4\TP7-exo4\obj\Debug\TP7-exo4.pdb

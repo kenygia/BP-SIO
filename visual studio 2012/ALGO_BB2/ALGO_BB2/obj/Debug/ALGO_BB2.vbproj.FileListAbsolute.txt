@@ -1,0 +1,9 @@
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\bin\Debug\ALGO_BB2.exe.config
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\bin\Debug\ALGO_BB2.exe
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\bin\Debug\ALGO_BB2.pdb
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\bin\Debug\ALGO_BB2.xml
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\obj\Debug\ALGO_BB2.Resources.resources
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\obj\Debug\ALGO_BB2.vbproj.GenerateResource.Cache
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\obj\Debug\ALGO_BB2.exe
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\obj\Debug\ALGO_BB2.xml
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB2\obj\Debug\ALGO_BB2.pdb

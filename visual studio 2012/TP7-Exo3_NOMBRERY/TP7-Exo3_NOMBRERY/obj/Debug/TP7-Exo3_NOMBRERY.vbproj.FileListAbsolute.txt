@@ -1,0 +1,11 @@
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-Exo3_NOMBRERY\bin\Debug\TP7-Exo3_NOMBRERY.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\bin\Debug\TP7-Exo3_NOMBRERY.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\bin\Debug\TP7-Exo3_NOMBRERY.exe
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\bin\Debug\TP7-Exo3_NOMBRERY.pdb
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\bin\Debug\TP7-Exo3_NOMBRERY.xml
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\obj\Debug\TP7_Exo3_NOMBRERY.Resources.resources
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\obj\Debug\TP7-Exo3_NOMBRERY.vbproj.GenerateResource.Cache
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\obj\Debug\TP7-Exo3_NOMBRERY.exe
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\obj\Debug\TP7-Exo3_NOMBRERY.xml
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\obj\Debug\TP7-Exo3_NOMBRERY.pdb
+G:\SIO\GOMBERT\visual studio 2012\TP7-Exo3_NOMBRERY\TP7-Exo3_NOMBRERY\obj\Debug\TP7-Exo3_NOMBRERY.vbprojResolveAssemblyReference.cache

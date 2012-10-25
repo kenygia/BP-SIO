@@ -1,0 +1,9 @@
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\obj\Debug\ResolveAssemblyReference.cache
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\obj\Debug\ModDiv.Resources.resources
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\obj\Debug\ModDiv.vbproj.GenerateResource.Cache
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\bin\Debug\ModDiv.exe
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\bin\Debug\ModDiv.pdb
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\bin\Debug\ModDiv.xml
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\obj\Debug\ModDiv.exe
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\obj\Debug\ModDiv.xml
+E:\SIO\GOMBERT\visual studio 2008\ModDiv\ModDiv\obj\Debug\ModDiv.pdb

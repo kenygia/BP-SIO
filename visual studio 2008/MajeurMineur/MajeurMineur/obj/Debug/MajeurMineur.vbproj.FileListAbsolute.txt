@@ -1,0 +1,9 @@
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\bin\Debug\MajeurMineur.exe
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\bin\Debug\MajeurMineur.pdb
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\bin\Debug\MajeurMineur.xml
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\obj\Debug\ResolveAssemblyReference.cache
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\obj\Debug\MajeurMineur.Resources.resources
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\obj\Debug\MajeurMineur.vbproj.GenerateResource.Cache
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\obj\Debug\MajeurMineur.exe
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\obj\Debug\MajeurMineur.xml
+E:\SIO\GOMBERT\visual studio 2008\MajeurMineur\MajeurMineur\obj\Debug\MajeurMineur.pdb

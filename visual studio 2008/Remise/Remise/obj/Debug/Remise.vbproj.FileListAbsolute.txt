@@ -1,0 +1,9 @@
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\obj\Debug\ResolveAssemblyReference.cache
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\obj\Debug\Remise.Resources.resources
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\obj\Debug\Remise.vbproj.GenerateResource.Cache
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\bin\Debug\Remise.exe
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\bin\Debug\Remise.pdb
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\bin\Debug\Remise.xml
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\obj\Debug\Remise.exe
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\obj\Debug\Remise.xml
+E:\SIO\GOMBERT\visual studio 2008\Remise\Remise\obj\Debug\Remise.pdb

@@ -1,0 +1,13 @@
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\bin\Debug\ALGO_BB.exe.config
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\bin\Debug\ALGO_BB.exe
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\bin\Debug\ALGO_BB.pdb
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\bin\Debug\ALGO_BB.xml
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\obj\Debug\ALGO_BB.Resources.resources
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\obj\Debug\ALGO_BB.vbproj.GenerateResource.Cache
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\obj\Debug\ALGO_BB.exe
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\obj\Debug\ALGO_BB.xml
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\ALGO_BB\obj\Debug\ALGO_BB.pdb
+H:\SIO\GOMBERT\visual studio 2012\ALGO_BB\ALGO_BB\bin\Debug\ALGO_BB.exe.config
+H:\SIO\GOMBERT\visual studio 2012\ALGO_BB\ALGO_BB\obj\Debug\ALGO_BB.exe
+H:\SIO\GOMBERT\visual studio 2012\ALGO_BB\ALGO_BB\obj\Debug\ALGO_BB.xml
+H:\SIO\GOMBERT\visual studio 2012\ALGO_BB\ALGO_BB\obj\Debug\ALGO_BB.pdb

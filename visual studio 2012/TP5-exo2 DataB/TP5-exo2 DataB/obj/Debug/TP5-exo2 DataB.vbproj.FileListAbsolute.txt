@@ -1,0 +1,10 @@
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP5-exo2 DataB\bin\Debug\TP5-exo2 DataB.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\bin\Debug\TP5-exo2 DataB.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\bin\Debug\TP5-exo2 DataB.exe
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\bin\Debug\TP5-exo2 DataB.pdb
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\bin\Debug\TP5-exo2 DataB.xml
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\obj\Debug\TP5_exo2_DataB.Resources.resources
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\obj\Debug\TP5-exo2 DataB.vbproj.GenerateResource.Cache
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\obj\Debug\TP5-exo2 DataB.exe
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\obj\Debug\TP5-exo2 DataB.xml
+G:\SIO\GOMBERT\visual studio 2012\TP5-exo2 DataB\TP5-exo2 DataB\obj\Debug\TP5-exo2 DataB.pdb

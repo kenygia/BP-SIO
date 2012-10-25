@@ -1,0 +1,10 @@
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\bin\Debug\TP_AlgoCalcDuree.exe
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\bin\Debug\TP_AlgoCalcDuree.pdb
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\bin\Debug\TP_AlgoCalcDuree.xml
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\TP_AlgoCalcDuree.Resources.resources
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\TP_AlgoCalcDuree.exe
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\TP_AlgoCalcDuree.xml
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoCalcDuree\TP_AlgoCalcDuree\obj\x86\Debug\TP_AlgoCalcDuree.pdb

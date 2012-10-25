@@ -1,0 +1,9 @@
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\bin\Debug\console_TP2.exe
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\bin\Debug\console_TP2.pdb
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\bin\Debug\console_TP2.xml
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\obj\Debug\ResolveAssemblyReference.cache
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\obj\Debug\console_TP2.Resources.resources
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\obj\Debug\console_TP2.vbproj.GenerateResource.Cache
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\obj\Debug\console_TP2.exe
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\obj\Debug\console_TP2.xml
+E:\SIO\GOMBERT\visual studio 2008\console_TP2\console_TP2\obj\Debug\console_TP2.pdb

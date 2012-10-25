@@ -1,0 +1,2 @@
+C:\Users\sio.SIO\AppData\Local\Temporary Projects\TP6_3\bin\Debug\TP6_3.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP6_3\TP6_3\bin\Debug\TP6_3.exe.config

@@ -1,0 +1,14 @@
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\TP_AlgoConvDuree.Resources.resources
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\bin\Debug\TP_AlgoConvDuree.exe
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\bin\Debug\TP_AlgoConvDuree.pdb
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\bin\Debug\TP_AlgoConvDuree.xml
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\TP_AlgoConvDuree.exe
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\TP_AlgoConvDuree.xml
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\TP_AlgoConvDuree.pdb
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\bin\Debug\TP_AlgoConvDuree.exe.manifest
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\bin\Debug\TP_AlgoConvDuree.application
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\TP_AlgoConvDuree.exe.manifest
+F:\SIO\GOMBERT\visual studio 2010\TP_AlgoConvDuree\TP_AlgoConvDuree\obj\x86\Debug\TP_AlgoConvDuree.application

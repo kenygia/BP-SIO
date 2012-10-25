@@ -1,0 +1,10 @@
+C:\Users\remir.keenen\AppData\Local\Temporary Projects\TP7-axo1\bin\Debug\TP7-axo1.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\bin\Debug\TP7-axo1.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\bin\Debug\TP7-axo1.exe
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\bin\Debug\TP7-axo1.pdb
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\bin\Debug\TP7-axo1.xml
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\obj\Debug\TP7_axo1.Resources.resources
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\obj\Debug\TP7-axo1.vbproj.GenerateResource.Cache
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\obj\Debug\TP7-axo1.exe
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\obj\Debug\TP7-axo1.xml
+G:\SIO\GOMBERT\visual studio 2012\TP7-axo1\TP7-axo1\obj\Debug\TP7-axo1.pdb

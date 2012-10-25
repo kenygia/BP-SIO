@@ -1,0 +1,10 @@
+C:\Users\sio.SIO\AppData\Local\Temporary Projects\TP6-exo2_\bin\Debug\TP6-exo2_.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\bin\Debug\TP6-exo2_.exe.config
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\bin\Debug\TP6-exo2_.exe
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\bin\Debug\TP6-exo2_.pdb
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\bin\Debug\TP6-exo2_.xml
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\obj\Debug\TP6_exo2_.Resources.resources
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\obj\Debug\TP6-exo2_.vbproj.GenerateResource.Cache
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\obj\Debug\TP6-exo2_.exe
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\obj\Debug\TP6-exo2_.xml
+G:\SIO\GOMBERT\visual studio 2012\TP6-exo2_\TP6-exo2_\obj\Debug\TP6-exo2_.pdb
